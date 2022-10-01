@@ -1,0 +1,7 @@
+export interface InterfaceTask {
+  description: string;
+  time: string;
+  selected: boolean;
+  completed: boolean;
+  id: string;
+}
